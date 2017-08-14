@@ -21,10 +21,10 @@ Each row in the dataset represents a different major in college and contains inf
    
 Using visualizations, I want to explore questions from the dataset like:
 
-    * Do students in more popular majors make more money?
-    * Using scatter plots
-    * How many majors are predominantly male? Predominantly female?
-    * Using histograms
-    * Which category of majors have the most students?
-    * Using bar plots
+   * Do students in more popular majors make more money?
+   * Using scatter plots
+   * How many majors are predominantly male? Predominantly female?
+   * Using histograms
+   * Which category of majors have the most students?
+   * Using bar plots
  
