@@ -28,3 +28,4 @@ Using visualizations, I want to explore questions from the dataset like:
    * Which category of majors have the most students?
    * Using bar plots
  
+I will also want to visual gender gaps in college degrees.
